@@ -1,0 +1,52 @@
+body {
+    background: linear-gradient(#646aaf, #424672);
+    color: white;
+    font-family: Times, sans-serif;
+  }
+  
+  #title {
+     text-align: center;
+     font-size: 40px;
+     text-decoration: underline;
+  }
+  
+  
+  #image{
+    display: block;
+    max-width: 100%;
+    margin: auto;
+  }
+  
+  figcaption {
+     display: flex;
+     justify-content: center;
+  }
+  
+  p > span {
+    color: orange;
+  }
+  
+  .italic {
+    font-style: italic;
+  }
+  
+  p, a, span {
+    text-align: center;
+    padding: 5px;
+    font-size: 1.2rem;
+  }
+  
+  a {
+    text-decoration: none;
+    color: #abb2fc;
+  }
+  
+  a:hover{
+    color: #272943;
+    
+  }
+  
+  a:visited {
+    color: black;
+  }
+  
