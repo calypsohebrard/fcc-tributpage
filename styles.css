@@ -22,8 +22,8 @@ body {
      justify-content: center;
   }
   
-  p > span {
-    color: orange;
+   strong, em {
+    color: hsl(39, 100%, 50%);
   }
   
   .italic {
@@ -38,15 +38,15 @@ body {
   
   a {
     text-decoration: none;
-    color: #abb2fc;
+    color: hsl(39, 100%, 50%);
   }
   
   a:hover{
-    color: #272943;
+    color:  hsl(39, 100%, 60%);
     
   }
   
   a:visited {
-    color: black;
+    color: hsl(39, 100%, 35%);
   }
   
