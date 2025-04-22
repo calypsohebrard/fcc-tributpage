@@ -6,14 +6,11 @@
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/fr/docs/Web/HTML)  
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/fr/docs/Web/CSS)  
 
-![Aperçu de la Tribute Page](https://raw.githubusercontent.com/calypsohebrard/fcc-tributepage/main/images/screenshot.png)  
-*(Remplacez par votre propre capture d'écran dans `/images`)*  
 
 ## 📌 Personnage honoré  
-**Marie Curie** *(Personnalisez cette section)*  
-- Première femme à recevoir un prix Nobel  
-- Découvreuse du radium et du polonium  
-- Pionnière en radioactivité  
+**Roberto Saviano**  
+- Auteur de Gomorra
+- Conférencier
 
 ## ✅ Exigences freeCodeCamp remplies  
 Ce projet répond à toutes les [user stories](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-tribute-page-project/build-a-tribute-page) :  
