@@ -1,5 +1,7 @@
 # 🌟 freeCodeCamp - Tribute Page  
 **Une page hommage responsive pour la certification freeCodeCamp**  
+![Capture d'écran 2025-04-22 115734](https://github.com/user-attachments/assets/f1fdc871-96ec-4178-81b9-9333b0b1b5c9)
+
 
 [![GitHub license](https://img.shields.io/github/license/calypsohebrard/fcc-tributepage?style=flat-square)](LICENSE)  
 [![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-0A0A23?style=flat-square&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/learn/2022/responsive-web-design/)  
